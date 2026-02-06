@@ -1,0 +1,8 @@
+{
+  "name": "SmartClaw",
+  "short_name": "SmartClaw",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#2463EB"
+}
